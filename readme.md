@@ -1,6 +1,7 @@
 # 555 Chaser LED
 
 This is the one led board with 5 effects. These effects are:
+
 - Blinky effect (each led will light-up then off for next led)
 - Bit Counting (That is the calculator with led)
 - Bar led ( These Stack up each clock )
@@ -9,8 +10,11 @@ This is the one led board with 5 effects. These effects are:
 
 This is the result board
 
+<img alt="3D-Rendering" src="./assets/3d-Render.png" />
 
-<img width="719" height="662" alt="Screenshot 2025-12-01 230636" src="./assets/image.png" />
+Also for someone want to know how that work
+
+<img alt="schematic" src="./assets/schematic.png" />
 
 Also with the BOM (bill of material) of project is
 
